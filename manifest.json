@@ -1,0 +1,10 @@
+{
+  "name": "CUPS Punchout",
+  "description": "Punchout for CUPS",
+  "version": "0.1",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["punchout.js"]
+  },
+  "manifest_version": 2
+}
